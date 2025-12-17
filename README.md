@@ -12,5 +12,5 @@ A collection of Matplotlib and other Python projects produced throughout my time
 
 <p align="center">
   <img src="Year 1 Semester 1/Images/expx.gif" width="49%"/>
-  <img src="Year 1 Semester 1/Images/unit_circle.gif" width="49%"/>
+  <img src="Year 1 Semester 1/Images/rainbow_bridge.gif" width="49%"/>
 </p>
