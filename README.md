@@ -14,3 +14,10 @@ A collection of Matplotlib and other Python projects produced throughout my time
   <img src="Year 1 Semester 1/Images/expx.gif" width="49%"/>
   <img src="Year 1 Semester 1/Images/rainbow_bridge.gif" width="49%"/>
 </p>
+
+<p align="center">
+  <img src="Year 1 Semester 1/Images/SL_1_1.25_1_1_0.pngf" width="33%"/>
+  <img src="Year 1 Semester 1/Images/AL_1_1_1_1_1.571_False_True_False_200_20.gif" width="33%"/>
+  <img src="Year 1 Semester 1/Images/LW_1_3_1_2_0_True_True_True_200_20.gif" width="33%"/>
+</p>
+
