@@ -7,7 +7,7 @@ A collection of Matplotlib and other Python projects produced throughout my time
 </p>
 
 <p align="center">
-  <img src="Year 1 Semester 1/Images/shm.gif" width="98%"/>
+  <img src="Year 1 Semester 1/Images/shm.gif" width="98.5%"/>
 </p>
 
 <p align="center">
@@ -19,5 +19,10 @@ A collection of Matplotlib and other Python projects produced throughout my time
   <img src="Year 1 Semester 1/Images/SL_1_1.25_1_1_0.png" width="32.5%"/>
   <img src="Year 1 Semester 1/Images/AL_1_1_1_1_1.571_False_True_False_200_20.gif" width="32.5%"/>
   <img src="Year 1 Semester 1/Images/LW_1_3_1_2_0_True_True_True_200_20.gif" width="32.5%"/>
+</p>
+
+<p align="center">
+  <img src="Year 1 Semester 1/Images/quick_50.gif" width="49%"/>
+  <img src="Year 1 Semester 1/Images/0_0_25__5_1000_250_plasma.gif" width="49%"/>
 </p>
 
