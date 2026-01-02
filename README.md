@@ -18,7 +18,7 @@ Year 1, Semester 1
 
 <p align="center">
   <img src="Year 1 Semester 1/Plots/expx.gif" width="49%"/>
-  <img src="Year 1 Semester 1/Plots/rainbow_bridge.gif" width="49%"/>
+  <img src="Year 1 Semester 1/Plots/rainbow_peaks.gif" width="49%"/>
 </p>
 
 <p align="center">
