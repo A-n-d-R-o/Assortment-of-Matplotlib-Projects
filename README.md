@@ -1,6 +1,12 @@
 # Assortment of Matplotlib Projects
 A collection of Matplotlib and other Python projects produced throughout my time as an undergraduate physics student.
 
+---
+
+<h2 align="center">
+Year 1, Semester 1
+</h2>
+
 <p align="center">
   <img src="Year 1 Semester 1/Plots/50sinx_x.gif" width="49%"/>
   <img src="Year 1 Semester 1/Plots/colour_arctanx.png" width="49%"/>
@@ -26,3 +32,4 @@ A collection of Matplotlib and other Python projects produced throughout my time
   <img src="Year 1 Semester 1/Plots/0_0_25__5_1000_250_plasma.gif" width="49%"/>
 </p>
 
+---
