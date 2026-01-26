@@ -33,3 +33,16 @@ Year 1, Semester 1
 </p>
 
 ---
+
+<h2 align="center">
+Year 1, Semester 2
+</h2>
+
+<p align="center">
+  <img src="Year 1 Semester 2/Plots/phase_group.gif" width="42.6%"/>
+  <img src="Year 1 Semester 2/Plots/slit_interference.gif" width="57.1%"/>
+</p>
+
+<p align="center">
+  <img src="Year 1 Semester 2/Plots/Doppler_osc.gif" width="98.5%"/>
+</p>
