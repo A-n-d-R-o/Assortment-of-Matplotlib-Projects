@@ -39,8 +39,8 @@ Year 1, Semester 2
 </h2>
 
 <p align="center">
-  <img src="Year 1 Semester 2/Plots/phase_group.gif" width="42.6%"/>
-  <img src="Year 1 Semester 2/Plots/slit_interference.gif" width="57.1%"/>
+  <img src="Year 1 Semester 2/Plots/phase_group.gif" height=430/>
+  <img src="Year 1 Semester 2/Plots/slit_interference.gif" height=430/>
 </p>
 
 <p align="center">
