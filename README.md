@@ -29,7 +29,7 @@ Year 1, Semester 1
 
 <p align="center">
   <img src="Year 1 Semester 1/Plots/quick_50.gif" width="49%"/>
-  <img src="Year 1 Semester 1/Plots/0_0_25__5_1000_250_plasma.gif" width="49%"/>
+  <img src="Year 1 Semester 1/Plots/Lorenz_chaos.gif" width="49%"/>
 </p>
 
 ---
