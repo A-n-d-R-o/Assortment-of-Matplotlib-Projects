@@ -48,9 +48,8 @@ Year 1, Semester 2
 </p>
 
 <p align="center">
-  <img src="Year 1 Semester 2/Plots/matrix_0_1_1_0.gif" width="19.5%"/>
-  <img src="Year 1 Semester 2/Plots/matrix_3_0_0_3.gif" width="19.5%"/>
-  <img src="Year 1 Semester 2/Plots/matrix_2_-4_1_1.gif" width="19.5%"/>
-  <img src="Year 1 Semester 2/Plots/matrix_1_0_0_0.gif" width="19.5%"/>
-  <img src="Year 1 Semester 2/Plots/matrix_-1_0_0_-1.gif" width="19.5%"/>
+  <img src="Year 1 Semester 2/Plots/matrix_0_1_1_0.gif" width="24.5%"/>
+  <img src="Year 1 Semester 2/Plots/matrix_2_-4_1_1.gif" width="24.5%"/>
+  <img src="Year 1 Semester 2/Plots/matrix_1_0_0_0.gif" width="24.5%"/>
+  <img src="Year 1 Semester 2/Plots/matrix_-1_0_0_-1.gif" width="24.5%"/>
 </p>
