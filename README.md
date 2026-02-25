@@ -50,6 +50,6 @@ Year 1, Semester 2
 <p align="center">
   <img src="Year 1 Semester 2/Plots/medium_diffraction.gif" width="24.5%"/>
   <img src="Year 1 Semester 2/Plots/matrix_2_-4_1_1.gif" width="24.5%"/>
-  <img src="Year 1 Semester 2/Plots/spherical_polar.png" width="24.5%"/>
-  <img src="Year 1 Semester 2/Plots/matrix_-1_0_0_-1.gif" width="24.5%"/>
+  <img src="Year 1 Semester 2/Plots/wave_equation_solution.gif" width="24.5%"/>
+  <img src="Year 1 Semester 2/Plots/surface_equilibrium_temperature_ratio.png" width="24.5%"/>
 </p>
