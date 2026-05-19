@@ -53,3 +53,7 @@ Year 1, Semester 2
   <img src="Year 1 Semester 2/Plots/wave_equation_solution.gif" width="24.5%"/>
   <img src="Year 1 Semester 2/Plots/surface_equilibrium_temperature_ratio.png" width="24.5%"/>
 </p>
+
+<p align="center">
+  <img src="Year 1 Semester 2/Plots/monte_carlo_1000_samples.gif" width="49%"/>
+</p>
