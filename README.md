@@ -56,4 +56,5 @@ Year 1, Semester 2
 
 <p align="center">
   <img src="Year 1 Semester 2/Plots/Monte_Carlo_1000_samples.gif" width="49%"/>
+  <img src="Year 1 Semester 2/Plots/conic_section.gif" width="49%"/>
 </p>
