@@ -58,3 +58,14 @@ Year 1, Semester 2
   <img src="Year 1 Semester 2/Plots/Monte_Carlo_1000_samples.gif" width="49%"/>
   <img src="Year 1 Semester 2/Plots/conic_section.gif" width="49%"/>
 </p>
+
+---
+
+<h2 align="center">
+Year 2, Semester 1
+</h2>
+
+<p align="center">
+  <img src="Year 2 Semester 1/Plots/e_field.png" width="50%"/>
+  <img src="Year 2 Semester 1/Plots/e_field.gif" width="49%"/>
+</p>
