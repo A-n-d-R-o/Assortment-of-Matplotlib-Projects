@@ -66,6 +66,6 @@ Year 2, Semester 1
 </h2>
 
 <p align="center">
-  <img src="Year 2 Semester 1/Plots/e_field.png" width="50%"/>
-  <img src="Year 2 Semester 1/Plots/e_field.gif" width="49%"/>
+  <img src="Year 2 Semester 1/Plots/e_field.png" width="33.5%"/>
+  <img src="Year 2 Semester 1/Plots/phasor-signals.gif" width="65.5%"/>
 </p>
