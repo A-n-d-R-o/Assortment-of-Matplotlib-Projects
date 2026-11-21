@@ -71,6 +71,12 @@ Year 2, Semester 1
 </p>
 
 <p align="center">
+  <img src="Year 2 Semester 1/Plots/De-Laval.png" width="48.7%"/>
+  <img src="Year 2 Semester 1/Plots/3D-Moody-chart.png" width="21.9%"/>
+  <img src="Year 2 Semester 1/Plots/transmission-coefficient.png" width="28%"/>
+</p>
+
+<p align="center">
   <img src="Year 2 Semester 1/Plots/relativistic-Doppler.gif" width="66%"/>
   <img src="Year 2 Semester 1/Plots/Minkowski-diagram.gif" width="33%"/>
 </p>
