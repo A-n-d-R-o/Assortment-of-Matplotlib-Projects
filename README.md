@@ -67,7 +67,7 @@ Year 2, Semester 1
 
 <p align="center">
   <img src="Year 2 Semester 1/Plots/e_field.png" width="33.5%"/>
-  <img src="Year 2 Semester 1/Plots/phasor-signals.gif" width="65.5%"/>
+  <img src="Year 2 Semester 1/Plots/rotatin-magnetic-field.gif" width="65.5%"/>
 </p>
 
 <p align="center">
